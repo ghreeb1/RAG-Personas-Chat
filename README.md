@@ -41,9 +41,16 @@ RAG-Personas-Chat/
 
 ## 🖼️ Screenshots
 
-| Chat Interface | Persona Selection | Indexing Tool |
-|----------------|------------------|---------------|
-| ![Chat](images/1.png) | ![Persona](images/2.png) | ![Indexer](images/3.png) |
+## 🖼️ Screenshots
+
+### 💬 Chat Interface
+![Chat](https://raw.githubusercontent.com/ghreeb1/RAG-Personas-Chat/master/data/1.png)
+
+### 🎭 Persona Selection
+![Persona](https://raw.githubusercontent.com/ghreeb1/RAG-Personas-Chat/master/data/2.png)
+
+### 🗂️ Indexing Tool
+![Indexer](https://raw.githubusercontent.com/ghreeb1/RAG-Personas-Chat/master/data/3.png)
 
 ---
 
