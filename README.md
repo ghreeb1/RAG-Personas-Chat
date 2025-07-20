@@ -43,7 +43,7 @@ RAG-Personas-Chat/
 
 | Chat Interface | Persona Selection | Indexing Tool |
 |----------------|-------------------|----------------|
-| ![Chat](https://drive.google.com/uc?export=view&id=1dzTlvWn5EGylrNdn1bvzazJwYat6vshN) | ![Persona](https://drive.google.com/uc?export=view&id=1wiz6ltZAILduNX7lWmiWr3kPnZne7p-y) | ![Indexer](https://drive.google.com/uc?export=view&id=1FgJqcvyl9bKT2g80z2hvcHNoEeC5mnZL) |
+| ![Chat](https://i.postimg.cc/MGspNDNc/1.png) | ![Persona](https://i.postimg.cc/9MXmCJFC/2.png) | ![Indexer](https://i.postimg.cc/K8X6M33G/3.png) |
 
 ---
 
