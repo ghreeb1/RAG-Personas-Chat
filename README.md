@@ -141,10 +141,17 @@ Special thanks to the open-source community and contributors of FastAPI, LangCha
 
 ---
 
-## 📬 Contact
+## 📧 Contact
 
-For suggestions or inquiries, please contact:
+**Developer:**  
+Mohamed Khaled
 
-**Developer:** Mohamed Khaled  
-**Email:** qq11gharipqq11@gmail.com
-**LinkedIn:** [linkedin.com/in/your-profile](linkedin.com/in/mohamed-khaled-3a9021263)
+**Email:**  
+qq11gharipqq11@gmail.com
+
+**Project Link:**  
+[https://github.com/ghreeb1/Eye_Disease.Classification](https://github.com/ghreeb1/Eye_Disease.Classification)
+
+**LinkedIn:**  
+[https://linkedin.com/in/mohamed-khaled-3a9021263](https://linkedin.com/in/mohamed-khaled-3a9021263)
+
