@@ -42,8 +42,8 @@ RAG-Personas-Chat/
 ## 🖼️ Screenshots
 
 | Chat Interface | Persona Selection | Indexing Tool |
-|----------------|-------------------|----------------|
-| ![Chat](https://i.postimg.cc/MGspNDNc/1.png) | ![Persona](https://i.postimg.cc/9MXmCJFC/2.png) | ![Indexer](https://i.postimg.cc/K8X6M33G/3.png) |
+|----------------|------------------|---------------|
+| ![Chat](images/1.png) | ![Persona](images/2.png) | ![Indexer](images/3.png) |
 
 ---
 
