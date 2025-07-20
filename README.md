@@ -41,8 +41,6 @@ RAG-Personas-Chat/
 
 ## 🖼️ Screenshots
 
-## 🖼️ Screenshots
-
 ### 💬 Chat Interface
 ![Chat](https://raw.githubusercontent.com/ghreeb1/RAG-Personas-Chat/master/data/1.png)
 
