@@ -135,23 +135,19 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## ✨ Acknowledgments
+## 👥 Participated in This Project
 
-Special thanks to the open-source community and contributors of FastAPI, LangChain, and FAISS.
+<h3 align="left">Connect with Us:</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/mohamed-khaled-3a9021263" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Khaled-blue?style=flat&logo=linkedin" alt="LinkedIn - Mohamed Khaled" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/amr-mohamed-9ab096232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amr%20Mohamed-blue?style=flat&logo=linkedin" alt="LinkedIn - Amr Mohamed" />
+  </a>
+</p>
 
 ---
-
-## 📧 Contact
-
-**Developer:**  
-Mohamed Khaled
-
-**Email:**  
-qq11gharipqq11@gmail.com
-
-**Project Link:**  
-[https://github.com/ghreeb1/Eye_Disease.Classification](https://github.com/ghreeb1/Eye_Disease.Classification)
-
-**LinkedIn:**  
-[https://linkedin.com/in/mohamed-khaled-3a9021263](https://linkedin.com/in/mohamed-khaled-3a9021263)
 
